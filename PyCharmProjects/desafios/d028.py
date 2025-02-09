@@ -1,13 +1,13 @@
 from random import randint
 from time import sleep
 num = randint(0,5)
-print('-=-'*20)
-print('Vou pensar em um número entre 0 e 5. Tente adivinhar!')
-print('-=-'*20)
-user_num = int(input('Em que número eu pensei? '))
-print('PROCESSANDO...')
+print('\033[33m-=-\033[m'*20)
+print('\033[34mVou pensar em um número entre 0 e 5. Tente adivinhar!\033[m')
+print('\033[33m-=-\033[m'*20)
+user_num = int(input('Em que número eu pensei?\033[32m \033[m'))
+print('\033[35mPROCESSANDO...\033[m')
 sleep(3)
 if user_num == num:
-    print('PARABENS! Você venceu! \nEu pensei mesmo no número {}.'.format(num))
+    print('\033[32mPARABENS, você venceu! Eu pensei mesmo no número {}.\033[m'.format(num))
 else:
-    print('GANHEI! \nEu pensei no número {}, e não no {}.'.format(num,user_num))
+    print('\033[31mPERDEU! Eu pensei no número {} e não no {}.\033[m'.format(num,user_num))

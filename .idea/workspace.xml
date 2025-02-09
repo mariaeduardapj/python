@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60902698-469a-40b7-addb-3aac9f701a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011a.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d028.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d029.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d030.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d031.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d032.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d033.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d034.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d035.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,7 @@
     "Python.aula010.executor": "Run",
     "Python.aula010b.executor": "Run",
     "Python.aula011.executor": "Run",
+    "Python.aula011a.executor": "Run",
     "Python.aula011b.executor": "Run",
     "Python.aula011c.executor": "Run",
     "Python.d003.executor": "Run",

@@ -1,5 +1,5 @@
-n1 = int(input('Digite um número: '))
-n2 = int(input('Digite outro número: '))
-n3 = int(input('Digite outro número: '))
+n1 = int(input('Digite um número:\033[32m \033[m'))
+n2 = int(input('Digite outro número:\033[32m \033[m'))
+n3 = int(input('Digite outro número:\033[32m \033[m'))
 print('Menor número: {}'.format(min(n1,n2,n3)))
 print('Maior número: {}'.format(max(n1,n2,n3)))
