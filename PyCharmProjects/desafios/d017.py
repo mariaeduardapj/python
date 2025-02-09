@@ -1,5 +1,5 @@
-from math import sqrt
-co = int(input('Cateto oposto: '))
-ca = int(input('Cateto adjacente: '))
-h = sqrt(co**2 + ca**2)
-print('O valor da hipotenusa é {}'.format(h))
+from math import hypot
+co = float(input('Cateto oposto: '))
+ca = float(input('Cateto adjacente: '))
+h = hypot(co,ca)
+print('O valor da hipotenusa é {:.2f}'.format(h))

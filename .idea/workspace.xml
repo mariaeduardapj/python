@@ -5,31 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60902698-469a-40b7-addb-3aac9f701a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula007a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula008a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula008b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/desafio001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/desafio002.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/exercicios/ex000.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/exercicios/ex001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d016.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d017.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d019.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d019.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +48,7 @@
     "Python.aula007a.executor": "Run",
     "Python.aula008a.executor": "Run",
     "Python.aula008b.executor": "Run",
+    "Python.aula009.executor": "Run",
     "Python.d003.executor": "Run",
     "Python.d004.executor": "Run",
     "Python.d005.executor": "Run",
@@ -75,6 +64,14 @@
     "Python.d017.executor": "Run",
     "Python.d018.executor": "Run",
     "Python.d019.executor": "Run",
+    "Python.d020.executor": "Run",
+    "Python.d021.executor": "Run",
+    "Python.d022.executor": "Run",
+    "Python.d023.executor": "Run",
+    "Python.d024.executor": "Run",
+    "Python.d025.executor": "Run",
+    "Python.d026.executor": "Run",
+    "Python.d027.executor": "Run",
     "Python.desafio001.executor": "Run",
     "Python.desafio002.executor": "Run",
     "Python.ex000.executor": "Run",
