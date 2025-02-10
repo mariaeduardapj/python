@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60902698-469a-40b7-addb-3aac9f701a07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011a.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula011a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d028.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d029.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d030.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d031.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d032.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d033.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d034.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyCharmProjects/desafios/d035.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     "Python.aula011a.executor": "Run",
     "Python.aula011b.executor": "Run",
     "Python.aula011c.executor": "Run",
+    "Python.aula012.executor": "Run",
     "Python.d003.executor": "Run",
     "Python.d004.executor": "Run",
     "Python.d005.executor": "Run",
@@ -83,6 +86,16 @@
     "Python.d033.executor": "Run",
     "Python.d034.executor": "Run",
     "Python.d035.executor": "Run",
+    "Python.d036.executor": "Run",
+    "Python.d037.executor": "Run",
+    "Python.d038.executor": "Run",
+    "Python.d039.executor": "Run",
+    "Python.d040.executor": "Run",
+    "Python.d041.executor": "Run",
+    "Python.d042.executor": "Run",
+    "Python.d043.executor": "Run",
+    "Python.d044.executor": "Run",
+    "Python.d045.executor": "Run",
     "Python.desafio001.executor": "Run",
     "Python.desafio002.executor": "Run",
     "Python.ex000.executor": "Run",
