@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60902698-469a-40b7-addb-3aac9f701a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula013a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula013b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d052b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +58,8 @@
     "Python.aula011b.executor": "Run",
     "Python.aula011c.executor": "Run",
     "Python.aula012.executor": "Run",
+    "Python.aula013.executor": "Run",
+    "Python.aula013b.executor": "Run",
     "Python.d003.executor": "Run",
     "Python.d004.executor": "Run",
     "Python.d005.executor": "Run",
@@ -96,6 +101,18 @@
     "Python.d043.executor": "Run",
     "Python.d044.executor": "Run",
     "Python.d045.executor": "Run",
+    "Python.d046.executor": "Run",
+    "Python.d047.executor": "Run",
+    "Python.d048.executor": "Run",
+    "Python.d049.executor": "Run",
+    "Python.d050.executor": "Run",
+    "Python.d051.executor": "Run",
+    "Python.d052.executor": "Run",
+    "Python.d052b.executor": "Run",
+    "Python.d053.executor": "Run",
+    "Python.d054.executor": "Run",
+    "Python.d055.executor": "Run",
+    "Python.d056.executor": "Run",
     "Python.desafio001.executor": "Run",
     "Python.desafio002.executor": "Run",
     "Python.ex000.executor": "Run",
