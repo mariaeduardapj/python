@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60902698-469a-40b7-addb-3aac9f701a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula013a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula013b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d052b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula014a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula014b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/aulas/aula015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d060a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d060b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d060c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyCharmProjects/desafios/d067.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +62,9 @@
     "Python.aula012.executor": "Run",
     "Python.aula013.executor": "Run",
     "Python.aula013b.executor": "Run",
+    "Python.aula014.executor": "Run",
+    "Python.aula014b.executor": "Run",
+    "Python.aula015.executor": "Run",
     "Python.d003.executor": "Run",
     "Python.d004.executor": "Run",
     "Python.d005.executor": "Run",
@@ -113,6 +118,19 @@
     "Python.d054.executor": "Run",
     "Python.d055.executor": "Run",
     "Python.d056.executor": "Run",
+    "Python.d057.executor": "Run",
+    "Python.d058.executor": "Run",
+    "Python.d059.executor": "Run",
+    "Python.d060.executor": "Run",
+    "Python.d060a.executor": "Run",
+    "Python.d060b.executor": "Run",
+    "Python.d060c.executor": "Run",
+    "Python.d061.executor": "Run",
+    "Python.d062.executor": "Run",
+    "Python.d063.executor": "Run",
+    "Python.d064.executor": "Run",
+    "Python.d065.executor": "Run",
+    "Python.d066.executor": "Run",
     "Python.desafio001.executor": "Run",
     "Python.desafio002.executor": "Run",
     "Python.ex000.executor": "Run",
