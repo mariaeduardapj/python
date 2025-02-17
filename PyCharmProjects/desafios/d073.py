@@ -1,0 +1,21 @@
+brasileirao = ('Botafogo', 'Palmeiras', 'Flamengo', 'Fortaleza', 'Internacional', 'São Paulo', 'Corinthians', 'Bahia', 'Cruzeiro', 'Vasco da Gama', 'EC Vitória', 'Atlético-MG', 'Fluminense', 'Grêmio', 'Juventude', 'Bragantino', 'Athletico-PR', 'Criciúma', 'Atlético-GO', 'Cuibá')
+print('-=-'*33)
+print(f'Lista de times do Brasileirão {brasileirao[:5]}')
+print(f'                              {brasileirao[5:10]}')
+print(f'                              {brasileirao[10:15]}')
+print(f'                              {brasileirao[15:]}')
+print('-=-'*33)
+print(f'Os 5 primeiros são {brasileirao[:5]}')
+print('-=-'*33)
+print(f'OS 4 últimos são {brasileirao[-4:]}')
+print('-=-'*33)
+print(f'Times em ordem alfabética {sorted(brasileirao)}')
+print('-=-'*33)
+print(f'O Bahia está na {brasileirao.index("Bahia")}° posição.')
+escolha = input('Escolha um time para ver sua posição: ')
+indice_b = brasileirao.index(escolha)
+if escolha in brasileirao:
+    print(f'{escolha} está na {indice_b+1}° posição')
+else:
+    print('Desculpa, não conseguimos consultar.')
+
